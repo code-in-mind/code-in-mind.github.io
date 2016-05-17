@@ -3,7 +3,7 @@
 
 html { background-color: #f1f1f1; }
 body { font-family: "Source Sans Pro", sans-serif; font-weight: 300; padding-bottom: 2rem; padding: 0; margin: 0; }
-#page, nav { max-width: 920px; margin: 0 auto; }
+#page, nav, footer div { max-width: 920px; margin: 0 auto; }
 #page > p { text-align: center; padding: 0.3rem, 3rem; }
 
 p strong { font-weight: normal; }
@@ -20,7 +20,7 @@ nav a:hover { text-decoration: underline; }
 
 header { background-color: white; }
 
-footer { clear: both; font-size: 90%; color: #666; padding-top: 2rem; }
+footer { clear: both; font-size: 90%; color: #666; padding: 1rem; background-color: white; }
 footer a { text-decoration: none; margin: 0 0.5rem; }
 
 h1,h2,h3,h4,h5,h6 { font-family: Comfortaa, sans-serif; }
